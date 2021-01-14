@@ -4,7 +4,7 @@
 
 I am youngjin Kim who is interested in Frontend development from South Korea.
 
-- I have been studying **computer science:computer:** since 2020.11.
+- I have been studying **computer science** since 2020.11.
 - I am very interested in **Frontend development** 💻.
 - I have project experience using **html, css, Javascript, React, React-Native**, ···.
 
